@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="LearnPythonBasic.py" />
+    <Compile Include="Loop.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Variables.py">
       <SubType>Code</SubType>
     </Compile>
