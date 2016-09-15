@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Advanced\Employee.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Fibonacci.py">
       <SubType>Code</SubType>
     </Compile>
@@ -32,6 +35,9 @@
     <Compile Include="Variables.py">
       <SubType>Code</SubType>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Advanced\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
