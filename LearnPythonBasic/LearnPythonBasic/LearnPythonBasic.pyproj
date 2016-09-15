@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Fibonacci.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="LearnPythonBasic.py" />
     <Compile Include="Loop.py">
       <SubType>Code</SubType>
