@@ -25,6 +25,9 @@
     <Compile Include="Advanced\Employee.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Advanced\Parent.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Fibonacci.py">
       <SubType>Code</SubType>
     </Compile>
